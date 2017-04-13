@@ -1,7 +1,5 @@
 package com.michaelssss;
 
-import com.michaelssss.ClassB;
-
 /**
  * Created by Micha on 2017/4/13.
  */

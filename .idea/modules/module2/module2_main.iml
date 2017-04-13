@@ -7,8 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../module2/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../module2/src/main/resources" type="java-resource" />
     </content>
+    <orderEntry type="module" module-name="module1_main" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="module1_main" />
   </component>
 </module>

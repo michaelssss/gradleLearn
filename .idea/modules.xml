@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleLearn.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleLearn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleLearn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleLearn_main.iml" group="gradleLearn" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleLearn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleLearn_test.iml" group="gradleLearn" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1.iml" filepath="$PROJECT_DIR$/.idea/modules/module1.iml" group="module1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/module1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/module1_main.iml" group="module1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/module1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/module1_test.iml" group="module1" />
